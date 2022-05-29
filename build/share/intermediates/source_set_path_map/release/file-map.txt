@@ -1,0 +1,12 @@
+io.flutter.plugins.share-pngs-0 C:\Fortore\build\share\generated\res\pngs\release
+io.flutter.plugins.share-resValues-1 C:\Fortore\build\share\generated\res\resValues\release
+io.flutter.plugins.share-rs-2 C:\Fortore\build\share\generated\res\rs\release
+io.flutter.plugins.share-mergeReleaseResources-3 C:\Fortore\build\share\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.share-mergeReleaseResources-4 C:\Fortore\build\share\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.share-merged_res-5 C:\Fortore\build\share\intermediates\merged_res\release
+io.flutter.plugins.share-jetified-window-java-1.0.0-beta04-6 C:\Users\admin\.gradle\caches\transforms-3\1a57d6563ac8b465d7444292442736cd\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.share-core-1.6.0-7 C:\Users\admin\.gradle\caches\transforms-3\5a26a77a42529a108707080137eb1ab1\transformed\core-1.6.0\res
+io.flutter.plugins.share-jetified-window-1.0.0-beta04-8 C:\Users\admin\.gradle\caches\transforms-3\7f29eec10468ee3bfaaca5876a3e73c3\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.share-jetified-annotation-experimental-1.1.0-9 C:\Users\admin\.gradle\caches\transforms-3\b2668d2ae47c8d05fe1d46b48e555597\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.share-main-10 C:\flutter\.pub-cache\hosted\pub.dartlang.org\share-2.0.4\android\src\main\res
+io.flutter.plugins.share-release-11 C:\flutter\.pub-cache\hosted\pub.dartlang.org\share-2.0.4\android\src\release\res

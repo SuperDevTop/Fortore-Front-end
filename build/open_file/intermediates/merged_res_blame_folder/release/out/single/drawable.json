@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.crazecoder.openfile.open_file-merged_res-4:/drawable/notification_bg.xml",
+        "source": "com.crazecoder.openfile.open_file-core-1.6.0-7:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.crazecoder.openfile.open_file-merged_res-4:/drawable/notification_tile_bg.xml",
+        "source": "com.crazecoder.openfile.open_file-core-1.6.0-7:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "com.crazecoder.openfile.open_file-merged_res-4:/drawable/notification_bg_low.xml",
+        "source": "com.crazecoder.openfile.open_file-core-1.6.0-7:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "com.crazecoder.openfile.open_file-merged_res-4:/drawable/notification_icon_background.xml",
+        "source": "com.crazecoder.openfile.open_file-core-1.6.0-7:/drawable/notification_icon_background.xml"
+    }
+]

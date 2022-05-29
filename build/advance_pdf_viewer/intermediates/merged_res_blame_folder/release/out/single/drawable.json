@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-merged_res-4:/drawable/notification_bg_low.xml",
+        "source": "pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-core-1.6.0-6:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-merged_res-4:/drawable/notification_bg.xml",
+        "source": "pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-core-1.6.0-6:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-merged_res-4:/drawable/notification_icon_background.xml",
+        "source": "pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-core-1.6.0-6:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-merged_res-4:/drawable/notification_tile_bg.xml",
+        "source": "pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-core-1.6.0-6:/drawable/notification_tile_bg.xml"
+    }
+]

@@ -1,0 +1,234 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.fortore"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="31" />
+10    <!--
+11         Flutter needs it to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->C:\Fortore\android\app\src\main\AndroidManifest.xml:35:5-66
+14-->C:\Fortore\android\app\src\main\AndroidManifest.xml:35:22-64
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->C:\Fortore\android\app\src\main\AndroidManifest.xml:36:5-81
+15-->C:\Fortore\android\app\src\main\AndroidManifest.xml:36:22-78
+16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+16-->C:\Fortore\android\app\src\main\AndroidManifest.xml:37:5-80
+16-->C:\Fortore\android\app\src\main\AndroidManifest.xml:37:22-77
+17    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+17-->C:\Fortore\android\app\src\main\AndroidManifest.xml:38:5-82
+17-->C:\Fortore\android\app\src\main\AndroidManifest.xml:38:22-79
+18
+19    <queries>
+19-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-13:15
+20        <intent>
+20-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-12:18
+21            <action android:name="android.support.customtabs.action.CustomTabsService" />
+21-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-90
+21-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:11:21-87
+22        </intent>
+23    </queries>
+24
+25    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+25-->[:open_file] C:\Fortore\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-83
+25-->[:open_file] C:\Fortore\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-80
+26
+27    <application
+28        android:name="android.app.Application"
+29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+29-->[androidx.core:core:1.7.0] C:\Users\admin\.gradle\caches\transforms-3\5fbc7a56c96d278186c37922faaebfa0\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+30        android:debuggable="true"
+31        android:icon="@mipmap/launcher_icon"
+32        android:label="fortore"
+33        android:usesCleartextTraffic="true" >
+34        <activity
+35            android:name="com.example.fortore.MainActivity"
+36            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+37            android:exported="true"
+38            android:hardwareAccelerated="true"
+39            android:launchMode="singleTop"
+40            android:theme="@style/LaunchTheme"
+41            android:windowSoftInputMode="adjustResize" >
+42
+43            <!--
+44                 Specifies an Android theme to apply to this Activity as soon as
+45                 the Android process has started. This theme is visible to the user
+46                 while the Flutter UI initializes. After that, this theme continues
+47                 to determine the Window background behind the Flutter UI.
+48            -->
+49            <meta-data
+50                android:name="io.flutter.embedding.android.NormalTheme"
+51                android:resource="@style/NormalTheme" />
+52
+53            <intent-filter>
+54                <action android:name="android.intent.action.MAIN" />
+55
+56                <category android:name="android.intent.category.LAUNCHER" />
+57            </intent-filter>
+58        </activity>
+59        <!--
+60             Don't delete the meta-data below.
+61             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+62        -->
+63        <meta-data
+64            android:name="flutterEmbedding"
+65            android:value="2" />
+66
+67        <provider
+67-->[:printing] C:\Fortore\build\printing\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
+68            android:name="net.nfet.flutter.printing.PrintFileProvider"
+68-->[:printing] C:\Fortore\build\printing\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-71
+69            android:authorities="com.example.fortore.flutter.printing"
+69-->[:printing] C:\Fortore\build\printing\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-68
+70            android:exported="false"
+70-->[:printing] C:\Fortore\build\printing\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+71            android:grantUriPermissions="true" >
+71-->[:printing] C:\Fortore\build\printing\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
+72            <meta-data
+72-->[:printing] C:\Fortore\build\printing\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:71
+73                android:name="android.support.FILE_PROVIDER_PATHS"
+73-->[:printing] C:\Fortore\build\printing\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
+74                android:resource="@xml/flutter_printing_file_paths" />
+74-->[:printing] C:\Fortore\build\printing\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-68
+75        </provider>
+76
+77        <activity
+77-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-20:47
+78            android:name="com.pichillilorenzo.flutter_inappwebview.in_app_browser.InAppBrowserActivity"
+78-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-104
+79            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density"
+79-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-137
+80            android:exported="true"
+80-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-36
+81            android:theme="@style/AppTheme" />
+81-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-44
+82        <activity
+82-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:21:9-24:55
+83            android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivity"
+83-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-112
+84            android:exported="true"
+84-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-36
+85            android:theme="@style/ThemeTransparent" />
+85-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-52
+86        <activity
+86-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-28:55
+87            android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.TrustedWebActivity"
+87-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-106
+88            android:exported="true"
+88-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-36
+89            android:theme="@style/ThemeTransparent" />
+89-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-52
+90        <activity
+90-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:29:9-33:55
+91            android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivitySingleInstance"
+91-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-126
+92            android:exported="true"
+92-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:31:13-36
+93            android:launchMode="singleInstance"
+93-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:32:13-48
+94            android:theme="@style/ThemeTransparent" />
+94-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:33:13-52
+95        <activity
+95-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:34:9-38:55
+96            android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.TrustedWebActivitySingleInstance"
+96-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:35:13-120
+97            android:exported="true"
+97-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:36:13-36
+98            android:launchMode="singleInstance"
+98-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:37:13-48
+99            android:theme="@style/ThemeTransparent" />
+99-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:38:13-52
+100
+101        <receiver
+101-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:40:9-43:40
+102            android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ActionBroadcastReceiver"
+102-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:41:13-111
+103            android:enabled="true"
+103-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:42:13-35
+104            android:exported="false" />
+104-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:43:13-37
+105
+106        <meta-data
+106-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:45:9-47:36
+107            android:name="io.flutter.embedded_views_preview"
+107-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:46:13-61
+108            android:value="true" />
+108-->[:flutter_inappwebview] C:\Fortore\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:47:13-33
+109
+110        <provider
+110-->[:open_file] C:\Fortore\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-23:20
+111            android:name="com.crazecoder.openfile.FileProvider"
+111-->[:open_file] C:\Fortore\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-64
+112            android:authorities="com.example.fortore.fileProvider.com.crazecoder.openfile"
+112-->[:open_file] C:\Fortore\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-88
+113            android:exported="false"
+113-->[:open_file] C:\Fortore\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-37
+114            android:grantUriPermissions="true" >
+114-->[:open_file] C:\Fortore\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-47
+115            <meta-data
+115-->[:printing] C:\Fortore\build\printing\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:71
+116                android:name="android.support.FILE_PROVIDER_PATHS"
+116-->[:printing] C:\Fortore\build\printing\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
+117                android:resource="@xml/filepaths" />
+117-->[:printing] C:\Fortore\build\printing\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-68
+118        </provider>
+119        <provider
+119-->[:share] C:\Fortore\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
+120            android:name="io.flutter.plugins.share.ShareFileProvider"
+120-->[:share] C:\Fortore\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-70
+121            android:authorities="com.example.fortore.flutter.share_provider"
+121-->[:share] C:\Fortore\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-74
+122            android:exported="false"
+122-->[:share] C:\Fortore\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+123            android:grantUriPermissions="true" >
+123-->[:share] C:\Fortore\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
+124            <meta-data
+124-->[:printing] C:\Fortore\build\printing\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:71
+125                android:name="android.support.FILE_PROVIDER_PATHS"
+125-->[:printing] C:\Fortore\build\printing\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
+126                android:resource="@xml/flutter_share_file_paths" />
+126-->[:printing] C:\Fortore\build\printing\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-68
+127        </provider>
+128
+129        <uses-library
+129-->[androidx.window:window:1.0.0-beta04] C:\Users\admin\.gradle\caches\transforms-3\7f29eec10468ee3bfaaca5876a3e73c3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+130            android:name="androidx.window.extensions"
+130-->[androidx.window:window:1.0.0-beta04] C:\Users\admin\.gradle\caches\transforms-3\7f29eec10468ee3bfaaca5876a3e73c3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+131            android:required="false" />
+131-->[androidx.window:window:1.0.0-beta04] C:\Users\admin\.gradle\caches\transforms-3\7f29eec10468ee3bfaaca5876a3e73c3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+132        <uses-library
+132-->[androidx.window:window:1.0.0-beta04] C:\Users\admin\.gradle\caches\transforms-3\7f29eec10468ee3bfaaca5876a3e73c3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+133            android:name="androidx.window.sidecar"
+133-->[androidx.window:window:1.0.0-beta04] C:\Users\admin\.gradle\caches\transforms-3\7f29eec10468ee3bfaaca5876a3e73c3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+134            android:required="false" />
+134-->[androidx.window:window:1.0.0-beta04] C:\Users\admin\.gradle\caches\transforms-3\7f29eec10468ee3bfaaca5876a3e73c3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+135
+136        <provider
+136-->[androidx.emoji2:emoji2:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\f7c891a853ae650aa90c7be5c0c5e69e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+137            android:name="androidx.startup.InitializationProvider"
+137-->[androidx.emoji2:emoji2:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\f7c891a853ae650aa90c7be5c0c5e69e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+138            android:authorities="com.example.fortore.androidx-startup"
+138-->[androidx.emoji2:emoji2:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\f7c891a853ae650aa90c7be5c0c5e69e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+139            android:exported="false" >
+139-->[androidx.emoji2:emoji2:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\f7c891a853ae650aa90c7be5c0c5e69e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+140            <meta-data
+140-->[androidx.emoji2:emoji2:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\f7c891a853ae650aa90c7be5c0c5e69e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+141                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+141-->[androidx.emoji2:emoji2:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\f7c891a853ae650aa90c7be5c0c5e69e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+142                android:value="androidx.startup" />
+142-->[androidx.emoji2:emoji2:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\f7c891a853ae650aa90c7be5c0c5e69e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+143            <meta-data
+143-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\admin\.gradle\caches\transforms-3\d9e066acadf760ba0065fe373371a4f7\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+144                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+144-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\admin\.gradle\caches\transforms-3\d9e066acadf760ba0065fe373371a4f7\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+145                android:value="androidx.startup" />
+145-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\admin\.gradle\caches\transforms-3\d9e066acadf760ba0065fe373371a4f7\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+146        </provider>
+147    </application>
+148
+149</manifest>

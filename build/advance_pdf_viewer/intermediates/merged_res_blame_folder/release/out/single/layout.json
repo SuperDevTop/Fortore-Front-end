@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-merged_res-4:/layout/notification_template_part_chronometer.xml",
+        "source": "pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-core-1.6.0-6:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-merged_res-4:/layout/custom_dialog.xml",
+        "source": "pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-core-1.6.0-6:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-merged_res-4:/layout/notification_template_part_time.xml",
+        "source": "pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-core-1.6.0-6:/layout/notification_template_part_time.xml"
+    }
+]

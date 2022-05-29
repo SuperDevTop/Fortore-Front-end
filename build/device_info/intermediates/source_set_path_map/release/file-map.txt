@@ -1,0 +1,12 @@
+io.flutter.plugins.deviceinfo.device_info-pngs-0 C:\Fortore\build\device_info\generated\res\pngs\release
+io.flutter.plugins.deviceinfo.device_info-resValues-1 C:\Fortore\build\device_info\generated\res\resValues\release
+io.flutter.plugins.deviceinfo.device_info-rs-2 C:\Fortore\build\device_info\generated\res\rs\release
+io.flutter.plugins.deviceinfo.device_info-mergeReleaseResources-3 C:\Fortore\build\device_info\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.deviceinfo.device_info-mergeReleaseResources-4 C:\Fortore\build\device_info\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.deviceinfo.device_info-merged_res-5 C:\Fortore\build\device_info\intermediates\merged_res\release
+io.flutter.plugins.deviceinfo.device_info-jetified-window-java-1.0.0-beta04-6 C:\Users\admin\.gradle\caches\transforms-3\1a57d6563ac8b465d7444292442736cd\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.deviceinfo.device_info-core-1.6.0-7 C:\Users\admin\.gradle\caches\transforms-3\5a26a77a42529a108707080137eb1ab1\transformed\core-1.6.0\res
+io.flutter.plugins.deviceinfo.device_info-jetified-window-1.0.0-beta04-8 C:\Users\admin\.gradle\caches\transforms-3\7f29eec10468ee3bfaaca5876a3e73c3\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.deviceinfo.device_info-jetified-annotation-experimental-1.1.0-9 C:\Users\admin\.gradle\caches\transforms-3\b2668d2ae47c8d05fe1d46b48e555597\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.deviceinfo.device_info-main-10 C:\flutter\.pub-cache\hosted\pub.dartlang.org\device_info-2.0.3\android\src\main\res
+io.flutter.plugins.deviceinfo.device_info-release-11 C:\flutter\.pub-cache\hosted\pub.dartlang.org\device_info-2.0.3\android\src\release\res

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.pichillilorenzo.flutter_inappwebview-merged_res-4:/menu/menu_main.xml",
+        "source": "com.pichillilorenzo.flutter_inappwebview-main-21:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.pichillilorenzo.flutter_inappwebview-merged_res-4:/menu/example_menu2.xml",
+        "source": "com.pichillilorenzo.flutter_inappwebview-core-1.7.0-8:/menu/example_menu2.xml"
+    },
+    {
+        "merged": "com.pichillilorenzo.flutter_inappwebview-merged_res-4:/menu/example_menu.xml",
+        "source": "com.pichillilorenzo.flutter_inappwebview-core-1.7.0-8:/menu/example_menu.xml"
+    }
+]

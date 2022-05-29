@@ -1,0 +1,12 @@
+io.flutter.plugins.pathprovider.path_provider_android-pngs-0 C:\Fortore\build\path_provider_android\generated\res\pngs\release
+io.flutter.plugins.pathprovider.path_provider_android-resValues-1 C:\Fortore\build\path_provider_android\generated\res\resValues\release
+io.flutter.plugins.pathprovider.path_provider_android-rs-2 C:\Fortore\build\path_provider_android\generated\res\rs\release
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-3 C:\Fortore\build\path_provider_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-4 C:\Fortore\build\path_provider_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.pathprovider.path_provider_android-merged_res-5 C:\Fortore\build\path_provider_android\intermediates\merged_res\release
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-java-1.0.0-beta04-6 C:\Users\admin\.gradle\caches\transforms-3\1a57d6563ac8b465d7444292442736cd\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.pathprovider.path_provider_android-core-1.6.0-7 C:\Users\admin\.gradle\caches\transforms-3\5a26a77a42529a108707080137eb1ab1\transformed\core-1.6.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-1.0.0-beta04-8 C:\Users\admin\.gradle\caches\transforms-3\7f29eec10468ee3bfaaca5876a3e73c3\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-annotation-experimental-1.1.0-9 C:\Users\admin\.gradle\caches\transforms-3\b2668d2ae47c8d05fe1d46b48e555597\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.pathprovider.path_provider_android-main-10 C:\flutter\.pub-cache\hosted\pub.dartlang.org\path_provider_android-2.0.14\android\src\main\res
+io.flutter.plugins.pathprovider.path_provider_android-release-11 C:\flutter\.pub-cache\hosted\pub.dartlang.org\path_provider_android-2.0.14\android\src\release\res

@@ -1,0 +1,12 @@
+com.pinciat.external_path-pngs-0 C:\Fortore\build\external_path\generated\res\pngs\release
+com.pinciat.external_path-resValues-1 C:\Fortore\build\external_path\generated\res\resValues\release
+com.pinciat.external_path-rs-2 C:\Fortore\build\external_path\generated\res\rs\release
+com.pinciat.external_path-mergeReleaseResources-3 C:\Fortore\build\external_path\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.pinciat.external_path-mergeReleaseResources-4 C:\Fortore\build\external_path\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.pinciat.external_path-merged_res-5 C:\Fortore\build\external_path\intermediates\merged_res\release
+com.pinciat.external_path-jetified-window-java-1.0.0-beta04-6 C:\Users\admin\.gradle\caches\transforms-3\1a57d6563ac8b465d7444292442736cd\transformed\jetified-window-java-1.0.0-beta04\res
+com.pinciat.external_path-core-1.6.0-7 C:\Users\admin\.gradle\caches\transforms-3\5a26a77a42529a108707080137eb1ab1\transformed\core-1.6.0\res
+com.pinciat.external_path-jetified-window-1.0.0-beta04-8 C:\Users\admin\.gradle\caches\transforms-3\7f29eec10468ee3bfaaca5876a3e73c3\transformed\jetified-window-1.0.0-beta04\res
+com.pinciat.external_path-jetified-annotation-experimental-1.1.0-9 C:\Users\admin\.gradle\caches\transforms-3\b2668d2ae47c8d05fe1d46b48e555597\transformed\jetified-annotation-experimental-1.1.0\res
+com.pinciat.external_path-main-10 C:\flutter\.pub-cache\hosted\pub.dartlang.org\external_path-1.0.1\android\src\main\res
+com.pinciat.external_path-release-11 C:\flutter\.pub-cache\hosted\pub.dartlang.org\external_path-1.0.1\android\src\release\res

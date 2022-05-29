@@ -1,0 +1,12 @@
+net.nfet.flutter.printing-pngs-0 C:\Fortore\build\printing\generated\res\pngs\release
+net.nfet.flutter.printing-resValues-1 C:\Fortore\build\printing\generated\res\resValues\release
+net.nfet.flutter.printing-rs-2 C:\Fortore\build\printing\generated\res\rs\release
+net.nfet.flutter.printing-mergeReleaseResources-3 C:\Fortore\build\printing\intermediates\incremental\release\mergeReleaseResources\merged.dir
+net.nfet.flutter.printing-mergeReleaseResources-4 C:\Fortore\build\printing\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+net.nfet.flutter.printing-merged_res-5 C:\Fortore\build\printing\intermediates\merged_res\release
+net.nfet.flutter.printing-jetified-window-java-1.0.0-beta04-6 C:\Users\admin\.gradle\caches\transforms-3\1a57d6563ac8b465d7444292442736cd\transformed\jetified-window-java-1.0.0-beta04\res
+net.nfet.flutter.printing-core-1.6.0-7 C:\Users\admin\.gradle\caches\transforms-3\5a26a77a42529a108707080137eb1ab1\transformed\core-1.6.0\res
+net.nfet.flutter.printing-jetified-window-1.0.0-beta04-8 C:\Users\admin\.gradle\caches\transforms-3\7f29eec10468ee3bfaaca5876a3e73c3\transformed\jetified-window-1.0.0-beta04\res
+net.nfet.flutter.printing-jetified-annotation-experimental-1.1.0-9 C:\Users\admin\.gradle\caches\transforms-3\b2668d2ae47c8d05fe1d46b48e555597\transformed\jetified-annotation-experimental-1.1.0\res
+net.nfet.flutter.printing-main-10 C:\flutter\.pub-cache\hosted\pub.dartlang.org\printing-5.9.1\android\src\main\res
+net.nfet.flutter.printing-release-11 C:\flutter\.pub-cache\hosted\pub.dartlang.org\printing-5.9.1\android\src\release\res

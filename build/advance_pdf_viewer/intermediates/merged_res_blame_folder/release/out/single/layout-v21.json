@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-merged_res-4:/layout-v21/notification_template_icon_group.xml",
+        "source": "pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-core-1.6.0-6:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-merged_res-4:/layout-v21/notification_action.xml",
+        "source": "pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-core-1.6.0-6:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-merged_res-4:/layout-v21/notification_template_custom_big.xml",
+        "source": "pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-core-1.6.0-6:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-merged_res-4:/layout-v21/notification_action_tombstone.xml",
+        "source": "pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-core-1.6.0-6:/layout-v21/notification_action_tombstone.xml"
+    }
+]

@@ -1,0 +1,12 @@
+com.tekartik.sqflite-pngs-0 C:\Fortore\build\sqflite\generated\res\pngs\release
+com.tekartik.sqflite-resValues-1 C:\Fortore\build\sqflite\generated\res\resValues\release
+com.tekartik.sqflite-rs-2 C:\Fortore\build\sqflite\generated\res\rs\release
+com.tekartik.sqflite-mergeReleaseResources-3 C:\Fortore\build\sqflite\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.tekartik.sqflite-mergeReleaseResources-4 C:\Fortore\build\sqflite\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.tekartik.sqflite-merged_res-5 C:\Fortore\build\sqflite\intermediates\merged_res\release
+com.tekartik.sqflite-jetified-window-java-1.0.0-beta04-6 C:\Users\admin\.gradle\caches\transforms-3\1a57d6563ac8b465d7444292442736cd\transformed\jetified-window-java-1.0.0-beta04\res
+com.tekartik.sqflite-core-1.6.0-7 C:\Users\admin\.gradle\caches\transforms-3\5a26a77a42529a108707080137eb1ab1\transformed\core-1.6.0\res
+com.tekartik.sqflite-jetified-window-1.0.0-beta04-8 C:\Users\admin\.gradle\caches\transforms-3\7f29eec10468ee3bfaaca5876a3e73c3\transformed\jetified-window-1.0.0-beta04\res
+com.tekartik.sqflite-jetified-annotation-experimental-1.1.0-9 C:\Users\admin\.gradle\caches\transforms-3\b2668d2ae47c8d05fe1d46b48e555597\transformed\jetified-annotation-experimental-1.1.0\res
+com.tekartik.sqflite-main-10 C:\flutter\.pub-cache\hosted\pub.dartlang.org\sqflite-2.0.2+1\android\src\main\res
+com.tekartik.sqflite-release-11 C:\flutter\.pub-cache\hosted\pub.dartlang.org\sqflite-2.0.2+1\android\src\release\res

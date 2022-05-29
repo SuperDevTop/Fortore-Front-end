@@ -1,0 +1,13 @@
+com.example.myfatoorah_flutter-packaged_res-0 C:\Fortore\build\device_info\intermediates\packaged_res\release
+com.example.myfatoorah_flutter-pngs-1 C:\Fortore\build\myfatoorah_flutter\generated\res\pngs\release
+com.example.myfatoorah_flutter-resValues-2 C:\Fortore\build\myfatoorah_flutter\generated\res\resValues\release
+com.example.myfatoorah_flutter-rs-3 C:\Fortore\build\myfatoorah_flutter\generated\res\rs\release
+com.example.myfatoorah_flutter-mergeReleaseResources-4 C:\Fortore\build\myfatoorah_flutter\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.myfatoorah_flutter-mergeReleaseResources-5 C:\Fortore\build\myfatoorah_flutter\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.myfatoorah_flutter-merged_res-6 C:\Fortore\build\myfatoorah_flutter\intermediates\merged_res\release
+com.example.myfatoorah_flutter-jetified-window-java-1.0.0-beta04-7 C:\Users\admin\.gradle\caches\transforms-3\1a57d6563ac8b465d7444292442736cd\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.myfatoorah_flutter-core-1.6.0-8 C:\Users\admin\.gradle\caches\transforms-3\5a26a77a42529a108707080137eb1ab1\transformed\core-1.6.0\res
+com.example.myfatoorah_flutter-jetified-window-1.0.0-beta04-9 C:\Users\admin\.gradle\caches\transforms-3\7f29eec10468ee3bfaaca5876a3e73c3\transformed\jetified-window-1.0.0-beta04\res
+com.example.myfatoorah_flutter-jetified-annotation-experimental-1.1.0-10 C:\Users\admin\.gradle\caches\transforms-3\b2668d2ae47c8d05fe1d46b48e555597\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.myfatoorah_flutter-main-11 C:\flutter\.pub-cache\hosted\pub.dartlang.org\myfatoorah_flutter-2.1.12\android\src\main\res
+com.example.myfatoorah_flutter-release-12 C:\flutter\.pub-cache\hosted\pub.dartlang.org\myfatoorah_flutter-2.1.12\android\src\release\res

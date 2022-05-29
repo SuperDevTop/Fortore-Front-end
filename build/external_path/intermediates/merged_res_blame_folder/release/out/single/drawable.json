@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.pinciat.external_path-merged_res-4:/drawable/notification_bg.xml",
+        "source": "com.pinciat.external_path-core-1.6.0-6:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.pinciat.external_path-merged_res-4:/drawable/notification_icon_background.xml",
+        "source": "com.pinciat.external_path-core-1.6.0-6:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.pinciat.external_path-merged_res-4:/drawable/notification_bg_low.xml",
+        "source": "com.pinciat.external_path-core-1.6.0-6:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "com.pinciat.external_path-merged_res-4:/drawable/notification_tile_bg.xml",
+        "source": "com.pinciat.external_path-core-1.6.0-6:/drawable/notification_tile_bg.xml"
+    }
+]

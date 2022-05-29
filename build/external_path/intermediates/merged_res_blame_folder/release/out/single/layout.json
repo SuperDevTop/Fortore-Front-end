@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.pinciat.external_path-merged_res-4:/layout/notification_action_tombstone.xml",
+        "source": "com.pinciat.external_path-core-1.6.0-6:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.pinciat.external_path-merged_res-4:/layout/notification_template_icon_group.xml",
+        "source": "com.pinciat.external_path-core-1.6.0-6:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.pinciat.external_path-merged_res-4:/layout/notification_template_part_chronometer.xml",
+        "source": "com.pinciat.external_path-core-1.6.0-6:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.pinciat.external_path-merged_res-4:/layout/notification_action.xml",
+        "source": "com.pinciat.external_path-core-1.6.0-6:/layout/notification_action.xml"
+    },
+    {
+        "merged": "com.pinciat.external_path-merged_res-4:/layout/custom_dialog.xml",
+        "source": "com.pinciat.external_path-core-1.6.0-6:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.pinciat.external_path-merged_res-4:/layout/notification_template_part_time.xml",
+        "source": "com.pinciat.external_path-core-1.6.0-6:/layout/notification_template_part_time.xml"
+    }
+]

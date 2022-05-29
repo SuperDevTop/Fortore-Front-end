@@ -1,0 +1,12 @@
+pl.pr0gramista.charset_converter-pngs-0 C:\Fortore\build\charset_converter\generated\res\pngs\release
+pl.pr0gramista.charset_converter-resValues-1 C:\Fortore\build\charset_converter\generated\res\resValues\release
+pl.pr0gramista.charset_converter-rs-2 C:\Fortore\build\charset_converter\generated\res\rs\release
+pl.pr0gramista.charset_converter-mergeReleaseResources-3 C:\Fortore\build\charset_converter\intermediates\incremental\release\mergeReleaseResources\merged.dir
+pl.pr0gramista.charset_converter-mergeReleaseResources-4 C:\Fortore\build\charset_converter\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+pl.pr0gramista.charset_converter-merged_res-5 C:\Fortore\build\charset_converter\intermediates\merged_res\release
+pl.pr0gramista.charset_converter-jetified-window-java-1.0.0-beta04-6 C:\Users\admin\.gradle\caches\transforms-3\1a57d6563ac8b465d7444292442736cd\transformed\jetified-window-java-1.0.0-beta04\res
+pl.pr0gramista.charset_converter-core-1.6.0-7 C:\Users\admin\.gradle\caches\transforms-3\5a26a77a42529a108707080137eb1ab1\transformed\core-1.6.0\res
+pl.pr0gramista.charset_converter-jetified-window-1.0.0-beta04-8 C:\Users\admin\.gradle\caches\transforms-3\7f29eec10468ee3bfaaca5876a3e73c3\transformed\jetified-window-1.0.0-beta04\res
+pl.pr0gramista.charset_converter-jetified-annotation-experimental-1.1.0-9 C:\Users\admin\.gradle\caches\transforms-3\b2668d2ae47c8d05fe1d46b48e555597\transformed\jetified-annotation-experimental-1.1.0\res
+pl.pr0gramista.charset_converter-main-10 C:\flutter\.pub-cache\hosted\pub.dartlang.org\charset_converter-2.1.0\android\src\main\res
+pl.pr0gramista.charset_converter-release-11 C:\flutter\.pub-cache\hosted\pub.dartlang.org\charset_converter-2.1.0\android\src\release\res

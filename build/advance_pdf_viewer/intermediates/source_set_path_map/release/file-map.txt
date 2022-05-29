@@ -1,0 +1,12 @@
+pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-pngs-0 C:\Fortore\build\advance_pdf_viewer\generated\res\pngs\release
+pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-resValues-1 C:\Fortore\build\advance_pdf_viewer\generated\res\resValues\release
+pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-rs-2 C:\Fortore\build\advance_pdf_viewer\generated\res\rs\release
+pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-mergeReleaseResources-3 C:\Fortore\build\advance_pdf_viewer\intermediates\incremental\release\mergeReleaseResources\merged.dir
+pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-mergeReleaseResources-4 C:\Fortore\build\advance_pdf_viewer\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-merged_res-5 C:\Fortore\build\advance_pdf_viewer\intermediates\merged_res\release
+pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-jetified-window-java-1.0.0-beta04-6 C:\Users\admin\.gradle\caches\transforms-3\1a57d6563ac8b465d7444292442736cd\transformed\jetified-window-java-1.0.0-beta04\res
+pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-core-1.6.0-7 C:\Users\admin\.gradle\caches\transforms-3\5a26a77a42529a108707080137eb1ab1\transformed\core-1.6.0\res
+pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-jetified-window-1.0.0-beta04-8 C:\Users\admin\.gradle\caches\transforms-3\7f29eec10468ee3bfaaca5876a3e73c3\transformed\jetified-window-1.0.0-beta04\res
+pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-jetified-annotation-experimental-1.1.0-9 C:\Users\admin\.gradle\caches\transforms-3\b2668d2ae47c8d05fe1d46b48e555597\transformed\jetified-annotation-experimental-1.1.0\res
+pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-main-10 C:\flutter\.pub-cache\hosted\pub.dartlang.org\advance_pdf_viewer-2.0.1\android\src\main\res
+pt.tribeiro.flutter_plugin_pdf_viewer.advance_pdf_viewer-release-11 C:\flutter\.pub-cache\hosted\pub.dartlang.org\advance_pdf_viewer-2.0.1\android\src\release\res

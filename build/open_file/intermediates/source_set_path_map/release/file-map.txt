@@ -1,0 +1,14 @@
+com.crazecoder.openfile.open_file-pngs-0 C:\Fortore\build\open_file\generated\res\pngs\release
+com.crazecoder.openfile.open_file-resValues-1 C:\Fortore\build\open_file\generated\res\resValues\release
+com.crazecoder.openfile.open_file-rs-2 C:\Fortore\build\open_file\generated\res\rs\release
+com.crazecoder.openfile.open_file-mergeReleaseResources-3 C:\Fortore\build\open_file\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.crazecoder.openfile.open_file-mergeReleaseResources-4 C:\Fortore\build\open_file\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.crazecoder.openfile.open_file-merged_res-5 C:\Fortore\build\open_file\intermediates\merged_res\release
+com.crazecoder.openfile.open_file-jetified-window-java-1.0.0-beta04-6 C:\Users\admin\.gradle\caches\transforms-3\1a57d6563ac8b465d7444292442736cd\transformed\jetified-window-java-1.0.0-beta04\res
+com.crazecoder.openfile.open_file-media-1.0.0-7 C:\Users\admin\.gradle\caches\transforms-3\2cd71913570f4033001f8949a22f0c50\transformed\media-1.0.0\res
+com.crazecoder.openfile.open_file-core-1.6.0-8 C:\Users\admin\.gradle\caches\transforms-3\5a26a77a42529a108707080137eb1ab1\transformed\core-1.6.0\res
+com.crazecoder.openfile.open_file-jetified-window-1.0.0-beta04-9 C:\Users\admin\.gradle\caches\transforms-3\7f29eec10468ee3bfaaca5876a3e73c3\transformed\jetified-window-1.0.0-beta04\res
+com.crazecoder.openfile.open_file-jetified-annotation-experimental-1.1.0-10 C:\Users\admin\.gradle\caches\transforms-3\b2668d2ae47c8d05fe1d46b48e555597\transformed\jetified-annotation-experimental-1.1.0\res
+com.crazecoder.openfile.open_file-coordinatorlayout-1.0.0-11 C:\Users\admin\.gradle\caches\transforms-3\d0c1b67cfd93575f4baa2b8e26196500\transformed\coordinatorlayout-1.0.0\res
+com.crazecoder.openfile.open_file-main-12 C:\flutter\.pub-cache\hosted\pub.dartlang.org\open_file-3.2.1\android\src\main\res
+com.crazecoder.openfile.open_file-release-13 C:\flutter\.pub-cache\hosted\pub.dartlang.org\open_file-3.2.1\android\src\release\res
